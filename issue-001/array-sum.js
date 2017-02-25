@@ -10,5 +10,5 @@ function arraysum(n) {
     console.log(sum);
   }
 
-var N = "1 2 3 5";
+var N = "1 2 3 4 5";
 arraysum(N)
